@@ -1,0 +1,43 @@
+Significados 
+
+-Git
+Concepto: 
+Git es un sistema de control de versiones distribuido, lo que significa que un clon local del proyecto es un repositorio de control de versiones completo. Estos repositorios locales plenamente funcionales permiten trabajar sin conexión o de forma remota con facilidad. Los desarrolladores confirman su trabajo localmente y, a continuación, sincronizan la copia del repositorio con la del servidor.
+Explicación:
+Es una herramienta la cual nos sirve para tener una copia del proyecto en la cual los miembros pueden trabajar por separado y actualizar y subir los cambios en el código a la nube.
+
+-Git branch
+Concepto:
+Es un comando el cual nos permite crear una nueva rama 
+
+-Git checkout
+Concepto: 
+El comando te permite desplazarte entre las ramas creadas por git branch
+
+-Git remote 
+Concepto:
+El comando te permite crear, ver y eliminar conexiones con otros repositorios
+
+-Git clone
+Concepto:
+Se utiliza para apuntar a un repositorio existente y clonar o copiar dicho repositorio en un nuevo directorio, en otra ubicación
+
+-Git merge
+Concepto:
+Se usa para fusionar una o más ramas dentro de la rama que tienes activa
+
+-Git Fork 
+Concepto:
+Es una copia del repositorio donde puedes escribir, haciendo públcios tus propios cambios, como una manera abierta de participación
+
+-Git switch
+Concepto:
+Se usa para deshacer cualquier cambio que hayas realizado y volver a tu rama anterior 
+
+-Git ignore
+Concepto:
+Contiene patrones que establecen coincidencias con los nombres de archivo de tu repositorio para determinar si deberían ignorarse o no
+
+
+
+ 
